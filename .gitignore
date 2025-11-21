@@ -9,3 +9,5 @@
 
 # Anywhere in the tree (fallback)
 /**/node_modules/**
+
+/lib/generated/prisma
