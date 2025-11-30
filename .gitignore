@@ -1,0 +1,36 @@
+# env / secrets
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Next.js
+.next/
+out/
+.vercel/
+
+# Build / tests
+dist/
+coverage/
+*.tsbuildinfo
+
+# Python venv
+.venv/
+.venv*/
+venv/
+
+
+# uploads (your face pics etc)
+public/uploads/
+uploads/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
